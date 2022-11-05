@@ -1,6 +1,6 @@
 # Teoría Computacional
 
-Repositorio con prácticas de la materia de Teoría Computacional 
+Repositorio con prácticas de la materia de Teoría Computacional. 
 
 Grupo : **5BM1**
 
