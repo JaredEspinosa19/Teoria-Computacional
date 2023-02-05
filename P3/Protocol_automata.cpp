@@ -9,10 +9,10 @@
 
 void generate_string(char string []){
 
-    for(int i{0}; i<64; ++i){
+    for(int i{0}; i<10; ++i){
         string[i] = 48 + (rand()%2);
     }
-    string[64] = '\0';
+    string[10] = '\0';
 }
 void write_message(){ 
     
@@ -24,9 +24,9 @@ void write_message(){
         exit(0);
     }
 
-    char string [65] {};
+    char string [11] {};
  
-    for(int i{0}; i<1000000; ++i){
+    for(int i{0}; i<10; ++i){
         generate_string(string);
         out_file << string << std::endl;
         aux_file << string << std::endl;     
