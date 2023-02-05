@@ -1,0 +1,5 @@
+287715Palabras
+
+gripa, contagio, distancia, calentura, COVID, cansancio, cubrebocas, dolor
+
+Leer un documento cualquiera, encontrar cuantas veces se encuentran en cada documento, y la posición del documentoCL

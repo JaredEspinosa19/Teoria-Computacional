@@ -1,0 +1,8 @@
+--------RESULTS---------gripa = 0 , posiciones = [] 
+contagio = 0, posiciones = [] 
+distancia = 1, posiciones = [(8, 24)] 
+calentura = 0, posiciones = [] 
+covid = 6, posiciones = [(2, 15), (2, 48), (4, 9), (7, 16), (8, 52), (12, 14)] 
+cansancio = 0, posiciones = [] 
+cubrebocas = 0, posiciones = [] 
+dolor = 0, posiciones = [] 
