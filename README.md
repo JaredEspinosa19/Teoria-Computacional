@@ -20,5 +20,6 @@ Profesor : **Genaro Martínez**
 |3. Protocolo Comunicación | Simulación de un protocolo de comunicación donde se escribe un archivo de texto con un millón de cadenas de 64 bits de largo, y que pasa por un aútomata de paridad|
 |4. Tablero Ajedrez | Automata Finito no Determinístico el cual es capaz de generar todas las jugadas para llegar a una casilla a partir del número de movimientos indicados, añade una animación que muestre la interacción del automata y el tablero.
 |5. Buscador de palabras| Automata Finito no Deterministico el cual es capaz de reconocer palabras relacionadas al COVID dentro de un archivo de texto, el cual es extraído de un sitio web mediante **Web Scrapping**.
-|6. |
-|7. | Automata de pila que reconoce si una cadena de la forma 0^n 1^n es válida.
+|7. PDA | Automata de pila que reconoce si una cadena de la forma 0<sup>n</sup> 1<sup>n</sup> es válida.
+|8. Generación de Palíndromos| Programa que genera un palíndromo urtlizando los conceptos de grámaticas libres de contexto.
+|9. Máquina de Turing| Máquina de Turing que es capaz de detectar si una cadena válida de la forma 0<sup>n</sup> 1<sup>n</sup> es válida.
